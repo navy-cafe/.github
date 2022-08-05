@@ -1,8 +1,6 @@
 
 Welcome to the navy cafe!
 
-### Projects
-
 #### [Bonk](https://github.com/navy-cafe/bonk)
 
 A fast-paced PvP gamemode for Minecraft 1.19+.
